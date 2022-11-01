@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: rgb(247, 98, 5)
+    background-color: rgb(235, 141, 202)
 }
 
 nav {
@@ -11,14 +11,14 @@ nav {
     ;
 }
 
-nav {
+head {
     text-decoration: dotted;
     color: crimson;
 
 }
 
 header {
-    background-color:rgb(154, 7, 253)
+    background-color:rgb(150, 108, 179)
 }
 
 h1 {
@@ -35,4 +35,23 @@ h3 {
 
 td {
   text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: rgb(255, 238, 80);}
+
+ul.a {
+  list-style-type: circle;
+}
+ol.c {
+  list-style-type: upper-roman;
 }
