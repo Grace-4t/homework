@@ -1,0 +1,25 @@
+header {
+    background-color:rgb(247, 98, 5)
+}
+nav {
+    background-color:rgb(198, 13, 254)
+    ;
+}
+
+text {h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  h3 {
+    text-align: right;
+  }
+}
+
+table {
+    tr:hover {background-color: coral;}
+}
+{}
