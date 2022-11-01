@@ -21,6 +21,7 @@ header {
     background-color:rgb(150, 108, 179)
 }
 
+
 h1 {
   text-align: center;
   color:blueviolet;
@@ -32,6 +33,7 @@ h2 {
 
 h3 {
   text-align: center;
+  color: gold;
 }
 
 td {
@@ -50,16 +52,21 @@ th, td {
 
 tr:hover {background-color: rgb(255, 238, 80);}
 
-ul.a {
+ul {
   list-style-type: circle;
   text-align: center;
 }
-ol.c {
+ol {
   list-style-type: upper-roman;
   text-align: center;
 }
-ul {
-  list-style-image: url('sqpurple.gif');
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
 }
 img {
   display: block;
