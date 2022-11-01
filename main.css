@@ -63,12 +63,12 @@ ol {
 
 ul.a {
   list-style-type: circle;
-  text-align: center;
+  text-align: left;
 }
 
 ul.b {
   list-style-type: square;
-  text-align: center;
+  text-align: left;
 }
 img {
   display: block;
