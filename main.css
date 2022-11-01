@@ -23,6 +23,7 @@ header {
 
 h1 {
   text-align: center;
+  color:blueviolet;
 }
 
 h2 {
@@ -51,7 +52,17 @@ tr:hover {background-color: rgb(255, 238, 80);}
 
 ul.a {
   list-style-type: circle;
+  text-align: center;
 }
 ol.c {
   list-style-type: upper-roman;
+  text-align: center;
+}
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
