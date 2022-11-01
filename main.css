@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(247, 98, 5)
+}
+
+nav {
+    background-color:rgb(210, 254, 13)
+    ;
+}
+
+nav {
+    text-decoration: dotted;
+    color: crimson;
+
+}
+
+header {
+    background-color:rgb(154, 7, 253)
+}
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+</style>
+</head>
+
+
+table {
+    tr:hover {background-color: coral;}
+}
