@@ -78,3 +78,11 @@ img {
 p {
   text-align: center;
 }
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
